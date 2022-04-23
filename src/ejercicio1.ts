@@ -1,0 +1,10 @@
+console.log("Receta de torta de chocolate");
+console.log("Batir los huevos durante 5 minutos. Añadir el azúcar de a poco y batir un 1 minuto más");
+console.log("Agregar el aceite, la leche, la esencia de vainilla y batir nuevamente");
+console.log("Añadir los ingredientes secos");
+console.log("Agregar el agua bien caliente y mezclalo");
+console.log("Enmantecar un molde de 18 cm de diámetro");
+console.log("Colocar papel manteca en la base y volver a enmantecar y enharinar");
+console.log("Colocar la preparacion en el molde");
+console.log("Cocinala en un horno precalentado a 180°C durante 55 minutos");
+console.log("¡Se puede acompañar con crema chantilly y frutillas!");
